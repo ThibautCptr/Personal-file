@@ -1,0 +1,58 @@
+{
+    "settings": {
+        "tabs": [
+            {
+                "name": "Friends",
+                "url": "/channels/@me",
+                "selected": true,
+                "currentStatus": "none",
+                "iconUrl": "https://discordapp.com/assets/322c936a8c8be1b803cd94861bdfa868.png"
+            }
+        ],
+        "favs": [
+            {
+                "name": "#bienvenue",
+                "iconUrl": "https://cdn.discordapp.com/icons/427479170336161793/814522c4229a027fa9a66986503af23c.webp?size=128",
+                "url": "/channels/427479170336161793/476511171583934465",
+                "channelId": "476511171583934465",
+                "groupId": -1
+            },
+            {
+                "name": "@ElectriZ",
+                "url": "/channels/@me/437273266219122689",
+                "channelId": "437273266219122689",
+                "groupId": -1
+            },
+            {
+                "name": "@Sowtch",
+                "url": "/channels/@me/466677547606999040",
+                "channelId": "466677547606999040",
+                "groupId": -1
+            }
+        ],
+        "favGroups": [],
+        "showTabBar": true,
+        "showFavBar": true,
+        "reopenLastChannel": false,
+        "showFavUnreadBadges": true,
+        "showFavMentionBadges": true,
+        "showFavTypingBadge": true,
+        "showEmptyFavBadges": true,
+        "showTabUnreadBadges": true,
+        "showTabMentionBadges": true,
+        "showTabTypingBadge": true,
+        "showEmptyTabBadges": false,
+        "showActiveTabUnreadBadges": false,
+        "showActiveTabMentionBadges": false,
+        "showActiveTabTypingBadge": false,
+        "showEmptyActiveTabBadges": false,
+        "compactStyle": true,
+        "privacyMode": false,
+        "showFavGroupUnreadBadges": true,
+        "showFavGroupMentionBadges": true,
+        "showFavGroupTypingBadge": true,
+        "showEmptyFavGroupBadges": true,
+        "showQuickSettings": true,
+        "alwaysFocusNewTabs": false
+    }
+}
